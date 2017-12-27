@@ -1,3 +1,6 @@
 Creating a Model File
 
 I am part of Clone Test Repo
+
+Adding new class to the Model file
+
